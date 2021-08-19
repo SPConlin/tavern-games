@@ -25,5 +25,5 @@
       "entity": "JournalEntry"
     }
   ],
-  "manifest": "https://github.com/SPConlin/tavern-games/blob/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/SPConlin/tavern-games/main/module.json"
 }
