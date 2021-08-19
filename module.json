@@ -1,0 +1,28 @@
+{
+  "name": "tavern-games",
+  "title": "Tavern Games",
+  "description": "A collection of common tavern games to add to your adventures.",
+  "author": "Wolvesbane Manor",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "packs": [
+    {
+      "name": "tavern-games-boards",
+      "label": "Tavern Games - Boards",
+      "path": "./packs/tavern-games-boards.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "tavern-games-game-pieces",
+      "label": "Tavern Games - Game Pieces",
+      "path": "./packs/tavern-games-game-pieces.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "tavern-games-instructions",
+      "label": "Tavern Games - Instructions",
+      "path": "./packs/tavern-games-instructions.db",
+      "entity": "JournalEntry"
+    }
+  ]
+}
