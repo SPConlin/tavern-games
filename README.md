@@ -13,7 +13,7 @@ The set includes:
 
 This is a Foundry VTT module and requires installation into the Foundry VTT modules directory.
 
-##Installation
+## Installation
 There are several ways to install this module into Foundry VTT.
 ### Direct URL Install
 1. Go to the Add-on Modules tab.
